@@ -1,0 +1,16 @@
+C:\Users\szymo\source\repos\LadaTest7\LadaTest7\bin\Debug\net6.0\input.txt
+C:\Users\szymo\source\repos\LadaTest7\LadaTest7\bin\Debug\net6.0\LadaTest7.exe
+C:\Users\szymo\source\repos\LadaTest7\LadaTest7\bin\Debug\net6.0\LadaTest7.deps.json
+C:\Users\szymo\source\repos\LadaTest7\LadaTest7\bin\Debug\net6.0\LadaTest7.runtimeconfig.json
+C:\Users\szymo\source\repos\LadaTest7\LadaTest7\bin\Debug\net6.0\LadaTest7.dll
+C:\Users\szymo\source\repos\LadaTest7\LadaTest7\bin\Debug\net6.0\ref\LadaTest7.dll
+C:\Users\szymo\source\repos\LadaTest7\LadaTest7\bin\Debug\net6.0\LadaTest7.pdb
+C:\Users\szymo\source\repos\LadaTest7\LadaTest7\obj\Debug\net6.0\LadaTest7.csproj.AssemblyReference.cache
+C:\Users\szymo\source\repos\LadaTest7\LadaTest7\obj\Debug\net6.0\LadaTest7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szymo\source\repos\LadaTest7\LadaTest7\obj\Debug\net6.0\LadaTest7.AssemblyInfoInputs.cache
+C:\Users\szymo\source\repos\LadaTest7\LadaTest7\obj\Debug\net6.0\LadaTest7.AssemblyInfo.cs
+C:\Users\szymo\source\repos\LadaTest7\LadaTest7\obj\Debug\net6.0\LadaTest7.csproj.CoreCompileInputs.cache
+C:\Users\szymo\source\repos\LadaTest7\LadaTest7\obj\Debug\net6.0\LadaTest7.dll
+C:\Users\szymo\source\repos\LadaTest7\LadaTest7\obj\Debug\net6.0\ref\LadaTest7.dll
+C:\Users\szymo\source\repos\LadaTest7\LadaTest7\obj\Debug\net6.0\LadaTest7.pdb
+C:\Users\szymo\source\repos\LadaTest7\LadaTest7\obj\Debug\net6.0\LadaTest7.genruntimeconfig.cache
